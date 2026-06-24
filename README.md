@@ -40,5 +40,5 @@
 ### 🔗 Connect with Me
 
 - 🌐 Portfolio: [bsdadakhalandar.com](https://bsdadakhalandar.com)
-- 💼 LinkedIn: [Add your LinkedIn URL here]
-- 📧 Email: [Add your email here]
+- 💼 LinkedIn: [B S Dada Khalandar](https://www.linkedin.com/in/b-s-dada-khalandar/)
+- 📧 Email: [bsdadakhalandar@gmail.com](mailto:bsdadakhalandar@gmail.com)
