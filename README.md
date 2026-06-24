@@ -8,7 +8,7 @@
 - 🧩 I render configs with **Jinja2** and treat **NetBox as my Source of Truth**
 - 🚀 I'm building **NetDevOps CI/CD pipelines** — config rendering → validation → deployment
 - 🌐 My networking core: **VXLAN EVPN, vPC, MP-BGP, BGP, OSPF** on Cisco / Arista / Cumulus
-- 📜 **CCNP ENCOR** + **Azure AZ-700** certified · pursuing BSc (Design & Computing) @ BITS Pilani
+- 📜 **CCNP ENCOR** + **Azure AZ-700** certified · **BSc in Design & Computing**, BITS Pilani
 - 🧪 Everything is tested first in my **EVE-NG / Containerlab** homelab
 
 ---
@@ -37,8 +37,11 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 **Automate:** Python · Nornir · Netmiko · NAPALM · Ansible/AWX · Jinja2 · TextFSM/NTC Templates
+
 **Source of Truth:** NetBox · InfoBlox
+
 **Network:** BGP · OSPF · VXLAN EVPN · vPC · STP · Palo Alto · F5 BIG-IP
+
 **Lab & CI:** EVE-NG · Containerlab · Git · Batfish
 
 ---
